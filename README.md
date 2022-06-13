@@ -12,8 +12,3 @@
 
 -----
 
-
-
--  Images and corresponding probability that predicted Right
-
--  Images and corresponding probability that predicted Wrong
